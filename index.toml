@@ -26,6 +26,11 @@ hash = "19cbba78c4982b15d10e44736a5fb7e992e477f6101799258d0ef7e03b288033"
 metafile = true
 
 [[files]]
+file = "mods/hybrid-beta.pw.toml"
+hash = "4ae86070bf9df734dda059e31c65a8d00c52c0d8a1d5ad016d96d0b61fd52251"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
